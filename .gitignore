@@ -1,5 +1,7 @@
 /gradle/wrapper/gradle-wrapper.properties
 
+hello wolrd
+
 ##----------Android----------
 *.apk
 *.ap_
